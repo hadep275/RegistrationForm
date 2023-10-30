@@ -2,6 +2,8 @@
 
 This README provides an overview of the HTML and CSS code for a registration form. The code is designed for a web page that allows users to register with their personal or business information. Below, you'll find a breakdown of the structure and styling of the form.
 
+[Click here to access the deployed application](https://your-deployed-url.com)
+
 ## HTML Structure
 
 ### Head Section

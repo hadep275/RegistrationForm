@@ -2,7 +2,9 @@
 
 This README provides an overview of the HTML and CSS code for a registration form. The code is designed for a web page that allows users to register with their personal or business information. Below, you'll find a breakdown of the structure and styling of the form.
 
-[Click here to access the deployed application](https://hadep275.github.io/RegistrationForm/)
+[Registration Demo](https://hadep275.github.io/RegistrationForm/)
+
+![screencapture-hadep275-github-io-RegistrationForm-2023-11-17-15_14_27](https://github.com/hadep275/RegistrationForm/assets/65734173/e0de1697-98ee-4adc-912a-4ed230fcf6d0)
 
 ## HTML Structure
 
